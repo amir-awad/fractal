@@ -6,7 +6,7 @@ amir.getscreen().bgcolor("black")
 amir.color("blue")
 amir.speed(20)
 
-
+# choose position to begin drawing
 amir.penup()
 amir.goto(-200,-200)
 amir.pendown()
